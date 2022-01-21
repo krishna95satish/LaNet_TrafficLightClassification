@@ -1,4 +1,3 @@
-# LaNet_TrafficLightClassification
 # **Traffic Sign Recognition** 
 ​
 ## Writeup
